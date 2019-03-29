@@ -3,3 +3,8 @@ My original intention is to set page's viewport to 1080px on iPhone8 Plus. Since
 
 - `without-a.png` and `with-a.png` shows the different render result.
 - `without-a.html` and `with-a.png` is the minimum case to reproduce the issue.
+
+## without-a.png
+![without-a.png](https://github.com/07akioni/may-be-a-bug-of-chrome/blob/master/without-a.png?raw=true)
+## with-a.png
+![with-a.png](https://github.com/07akioni/may-be-a-bug-of-chrome/blob/master/with-a.png?raw=true)
